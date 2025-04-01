@@ -1,0 +1,7 @@
+C:\Users\kisim\Desktop\c#\Study_A\5th\sin_5\sin_5\bin\Debug\sin_5.exe.config
+C:\Users\kisim\Desktop\c#\Study_A\5th\sin_5\sin_5\bin\Debug\sin_5.exe
+C:\Users\kisim\Desktop\c#\Study_A\5th\sin_5\sin_5\bin\Debug\sin_5.pdb
+C:\Users\kisim\Desktop\c#\Study_A\5th\sin_5\sin_5\obj\Debug\sin_5.csproj.AssemblyReference.cache
+C:\Users\kisim\Desktop\c#\Study_A\5th\sin_5\sin_5\obj\Debug\sin_5.csproj.CoreCompileInputs.cache
+C:\Users\kisim\Desktop\c#\Study_A\5th\sin_5\sin_5\obj\Debug\sin_5.exe
+C:\Users\kisim\Desktop\c#\Study_A\5th\sin_5\sin_5\obj\Debug\sin_5.pdb
