@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kisim\\Desktop\\c#\\Study_A\\7th\\zodiac\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F7835B1-ADC9-48F0-B448-280A0740F91B}|zodiac\\zodiac.csproj|c:\\users\\kisim\\desktop\\c#\\study_a\\7th\\zodiac\\zodiac\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F7835B1-ADC9-48F0-B448-280A0740F91B}|zodiac\\zodiac.csproj|solutionrelative:zodiac\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F7835B1-ADC9-48F0-B448-280A0740F91B}|zodiac\\zodiac.csproj|c:\\users\\kisim\\desktop\\c#\\study_a\\7th\\zodiac\\zodiac\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4F7835B1-ADC9-48F0-B448-280A0740F91B}|zodiac\\zodiac.csproj|solutionrelative:zodiac\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\kisim\\Desktop\\c#\\Study_A\\7th\\zodiac\\zodiac\\Form1.cs",
+              "RelativeDocumentMoniker": "zodiac\\Form1.cs",
+              "ToolTip": "C:\\Users\\kisim\\Desktop\\c#\\Study_A\\7th\\zodiac\\zodiac\\Form1.cs",
+              "RelativeToolTip": "zodiac\\Form1.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAIwDwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T05:45:04.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\kisim\\Desktop\\c#\\Study_A\\7th\\zodiac\\zodiac\\Form1.cs",
+              "RelativeDocumentMoniker": "zodiac\\Form1.cs",
+              "ToolTip": "C:\\Users\\kisim\\Desktop\\c#\\Study_A\\7th\\zodiac\\zodiac\\Form1.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "zodiac\\Form1.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T05:41:52.738Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
