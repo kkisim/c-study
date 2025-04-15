@@ -1,0 +1,7 @@
+C:\Users\kisim\Desktop\c#\Study_A\6th\project_1\project_4\bin\Debug\project_4.exe.config
+C:\Users\kisim\Desktop\c#\Study_A\6th\project_1\project_4\bin\Debug\project_4.exe
+C:\Users\kisim\Desktop\c#\Study_A\6th\project_1\project_4\bin\Debug\project_4.pdb
+C:\Users\kisim\Desktop\c#\Study_A\6th\project_1\project_4\obj\Debug\project_4.csproj.AssemblyReference.cache
+C:\Users\kisim\Desktop\c#\Study_A\6th\project_1\project_4\obj\Debug\project_4.csproj.CoreCompileInputs.cache
+C:\Users\kisim\Desktop\c#\Study_A\6th\project_1\project_4\obj\Debug\project_4.exe
+C:\Users\kisim\Desktop\c#\Study_A\6th\project_1\project_4\obj\Debug\project_4.pdb

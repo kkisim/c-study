@@ -3,15 +3,23 @@
   "WorkspaceRootPath": "C:\\Users\\kisim\\Desktop\\c#\\Study_A\\6th\\project_1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A21584F3-B4B3-465B-B9F7-518690B0E289}|project_4\\project_4.csproj|c:\\users\\kisim\\desktop\\c#\\study_a\\6th\\project_1\\project_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AD0AF1AB-9F49-415B-BEBC-A0EA128A870F}|project_6\\project_6.csproj|c:\\users\\kisim\\desktop\\c#\\study_a\\6th\\project_1\\project_6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD0AF1AB-9F49-415B-BEBC-A0EA128A870F}|project_6\\project_6.csproj|solutionrelative:project_6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE3082B-8595-46CC-B10C-B43A2E8D2442}|project_5\\project_5.csproj|c:\\users\\kisim\\desktop\\c#\\study_a\\6th\\project_1\\project_5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BE3082B-8595-46CC-B10C-B43A2E8D2442}|project_5\\project_5.csproj|solutionrelative:project_5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A21584F3-B4B3-465B-B9F7-518690B0E289}|project_4\\project_4.csproj|C:\\Users\\kisim\\Desktop\\c#\\Study_A\\6th\\project_1\\project_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A21584F3-B4B3-465B-B9F7-518690B0E289}|project_4\\project_4.csproj|solutionrelative:project_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{42CA7C73-56D2-4B55-A039-360D42AC2C37}|project_3\\project_3.csproj|c:\\users\\kisim\\desktop\\c#\\study_a\\6th\\project_1\\project_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{42CA7C73-56D2-4B55-A039-360D42AC2C37}|project_3\\project_3.csproj|C:\\Users\\kisim\\Desktop\\c#\\Study_A\\6th\\project_1\\project_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{42CA7C73-56D2-4B55-A039-360D42AC2C37}|project_3\\project_3.csproj|solutionrelative:project_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD2D806C-0DE3-4AEE-9ADB-533E5E4BDE8E}|project_2\\project_2.csproj|c:\\users\\kisim\\desktop\\c#\\study_a\\6th\\project_1\\project_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CD2D806C-0DE3-4AEE-9ADB-533E5E4BDE8E}|project_2\\project_2.csproj|C:\\Users\\kisim\\Desktop\\c#\\Study_A\\6th\\project_1\\project_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CD2D806C-0DE3-4AEE-9ADB-533E5E4BDE8E}|project_2\\project_2.csproj|solutionrelative:project_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -30,41 +38,67 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\kisim\\Desktop\\c#\\Study_A\\6th\\project_1\\project_4\\Program.cs",
-              "RelativeDocumentMoniker": "project_4\\Program.cs",
-              "ToolTip": "C:\\Users\\kisim\\Desktop\\c#\\Study_A\\6th\\project_1\\project_4\\Program.cs",
-              "RelativeToolTip": "project_4\\Program.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACEAAAANAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\kisim\\Desktop\\c#\\Study_A\\6th\\project_1\\project_6\\Program.cs",
+              "RelativeDocumentMoniker": "project_6\\Program.cs",
+              "ToolTip": "C:\\Users\\kisim\\Desktop\\c#\\Study_A\\6th\\project_1\\project_6\\Program.cs",
+              "RelativeToolTip": "project_6\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T06:04:22.718Z",
+              "WhenOpened": "2025-04-15T04:18:59.581Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kisim\\Desktop\\c#\\Study_A\\6th\\project_1\\project_5\\Program.cs",
+              "RelativeDocumentMoniker": "project_5\\Program.cs",
+              "ToolTip": "C:\\Users\\kisim\\Desktop\\c#\\Study_A\\6th\\project_1\\project_5\\Program.cs",
+              "RelativeToolTip": "project_5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T06:24:27.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kisim\\Desktop\\c#\\Study_A\\6th\\project_1\\project_4\\Program.cs",
+              "RelativeDocumentMoniker": "project_4\\Program.cs",
+              "ToolTip": "C:\\Users\\kisim\\Desktop\\c#\\Study_A\\6th\\project_1\\project_4\\Program.cs",
+              "RelativeToolTip": "project_4\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T06:04:22.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\kisim\\Desktop\\c#\\Study_A\\6th\\project_1\\project_3\\Program.cs",
               "RelativeDocumentMoniker": "project_3\\Program.cs",
               "ToolTip": "C:\\Users\\kisim\\Desktop\\c#\\Study_A\\6th\\project_1\\project_3\\Program.cs",
               "RelativeToolTip": "project_3\\Program.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAgwAwAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwAwAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-08T05:36:11.965Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\kisim\\Desktop\\c#\\Study_A\\6th\\project_1\\project_2\\Program.cs",
               "RelativeDocumentMoniker": "project_2\\Program.cs",
@@ -72,8 +106,7 @@
               "RelativeToolTip": "project_2\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T05:07:59.468Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-08T05:07:59.468Z"
             }
           ]
         }

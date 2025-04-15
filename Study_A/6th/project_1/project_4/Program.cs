@@ -24,7 +24,7 @@ namespace project_4
             {
                 Console.WriteLine(" 가을입니다.");
             }
-            else if (month == 12 || month == 1 || month == 2)
+            else if (month == 12 || month >= 1 )
             {
                 Console.WriteLine(" 겨울입니다.");
             }
