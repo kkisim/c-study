@@ -1,0 +1,10 @@
+C:\Users\kisim\Desktop\c#\Study_B\4rd\sin_04\A_image\bin\Debug\A_image.exe.config
+C:\Users\kisim\Desktop\c#\Study_B\4rd\sin_04\A_image\bin\Debug\A_image.exe
+C:\Users\kisim\Desktop\c#\Study_B\4rd\sin_04\A_image\bin\Debug\A_image.pdb
+C:\Users\kisim\Desktop\c#\Study_B\4rd\sin_04\A_image\obj\Debug\A_image.csproj.AssemblyReference.cache
+C:\Users\kisim\Desktop\c#\Study_B\4rd\sin_04\A_image\obj\Debug\A_image.Form1.resources
+C:\Users\kisim\Desktop\c#\Study_B\4rd\sin_04\A_image\obj\Debug\A_image.Properties.Resources.resources
+C:\Users\kisim\Desktop\c#\Study_B\4rd\sin_04\A_image\obj\Debug\A_image.csproj.GenerateResource.cache
+C:\Users\kisim\Desktop\c#\Study_B\4rd\sin_04\A_image\obj\Debug\A_image.csproj.CoreCompileInputs.cache
+C:\Users\kisim\Desktop\c#\Study_B\4rd\sin_04\A_image\obj\Debug\A_image.exe
+C:\Users\kisim\Desktop\c#\Study_B\4rd\sin_04\A_image\obj\Debug\A_image.pdb

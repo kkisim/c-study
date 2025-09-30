@@ -1,0 +1,10 @@
+C:\Users\kisim\Desktop\c#\Study_B\3rd\sln_03\Progress\obj\Debug\Progress.csproj.AssemblyReference.cache
+C:\Users\kisim\Desktop\c#\Study_B\3rd\sln_03\Progress\obj\Debug\Progress.Form1.resources
+C:\Users\kisim\Desktop\c#\Study_B\3rd\sln_03\Progress\obj\Debug\Progress.Properties.Resources.resources
+C:\Users\kisim\Desktop\c#\Study_B\3rd\sln_03\Progress\obj\Debug\Progress.csproj.GenerateResource.cache
+C:\Users\kisim\Desktop\c#\Study_B\3rd\sln_03\Progress\obj\Debug\Progress.csproj.CoreCompileInputs.cache
+C:\Users\kisim\Desktop\c#\Study_B\3rd\sln_03\Progress\bin\Debug\Progress.exe.config
+C:\Users\kisim\Desktop\c#\Study_B\3rd\sln_03\Progress\bin\Debug\Progress.exe
+C:\Users\kisim\Desktop\c#\Study_B\3rd\sln_03\Progress\bin\Debug\Progress.pdb
+C:\Users\kisim\Desktop\c#\Study_B\3rd\sln_03\Progress\obj\Debug\Progress.exe
+C:\Users\kisim\Desktop\c#\Study_B\3rd\sln_03\Progress\obj\Debug\Progress.pdb

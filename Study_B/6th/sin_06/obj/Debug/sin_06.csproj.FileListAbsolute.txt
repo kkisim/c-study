@@ -1,0 +1,11 @@
+C:\Users\kisim\Desktop\c#\Study_B\6th\sin_06\obj\Debug\sin_06.csproj.AssemblyReference.cache
+C:\Users\kisim\Desktop\c#\Study_B\6th\sin_06\obj\Debug\sin_06.Form1.resources
+C:\Users\kisim\Desktop\c#\Study_B\6th\sin_06\obj\Debug\sin_06.Form2.resources
+C:\Users\kisim\Desktop\c#\Study_B\6th\sin_06\obj\Debug\sin_06.Properties.Resources.resources
+C:\Users\kisim\Desktop\c#\Study_B\6th\sin_06\obj\Debug\sin_06.csproj.GenerateResource.cache
+C:\Users\kisim\Desktop\c#\Study_B\6th\sin_06\obj\Debug\sin_06.csproj.CoreCompileInputs.cache
+C:\Users\kisim\Desktop\c#\Study_B\6th\sin_06\bin\Debug\sin_06.exe.config
+C:\Users\kisim\Desktop\c#\Study_B\6th\sin_06\bin\Debug\sin_06.exe
+C:\Users\kisim\Desktop\c#\Study_B\6th\sin_06\bin\Debug\sin_06.pdb
+C:\Users\kisim\Desktop\c#\Study_B\6th\sin_06\obj\Debug\sin_06.exe
+C:\Users\kisim\Desktop\c#\Study_B\6th\sin_06\obj\Debug\sin_06.pdb

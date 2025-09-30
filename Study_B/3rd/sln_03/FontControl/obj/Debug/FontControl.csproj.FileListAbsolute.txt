@@ -1,0 +1,10 @@
+C:\Users\kisim\Desktop\c#\Study_B\3rd\sln_03\FontControl\obj\Debug\FontControl.csproj.AssemblyReference.cache
+C:\Users\kisim\Desktop\c#\Study_B\3rd\sln_03\FontControl\obj\Debug\FontControl.Form1.resources
+C:\Users\kisim\Desktop\c#\Study_B\3rd\sln_03\FontControl\obj\Debug\FontControl.Properties.Resources.resources
+C:\Users\kisim\Desktop\c#\Study_B\3rd\sln_03\FontControl\obj\Debug\FontControl.csproj.GenerateResource.cache
+C:\Users\kisim\Desktop\c#\Study_B\3rd\sln_03\FontControl\obj\Debug\FontControl.csproj.CoreCompileInputs.cache
+C:\Users\kisim\Desktop\c#\Study_B\3rd\sln_03\FontControl\bin\Debug\FontControl.exe.config
+C:\Users\kisim\Desktop\c#\Study_B\3rd\sln_03\FontControl\bin\Debug\FontControl.exe
+C:\Users\kisim\Desktop\c#\Study_B\3rd\sln_03\FontControl\bin\Debug\FontControl.pdb
+C:\Users\kisim\Desktop\c#\Study_B\3rd\sln_03\FontControl\obj\Debug\FontControl.exe
+C:\Users\kisim\Desktop\c#\Study_B\3rd\sln_03\FontControl\obj\Debug\FontControl.pdb

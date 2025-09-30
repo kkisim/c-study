@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35514.174 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A_Timer", "A_Timer\A_Timer.csproj", "{81AC30E8-25A0-4232-A036-0AA5E4738CDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Progress", "Progress\Progress.csproj", "{2469B052-14C1-4B30-8482-F1A30A20105E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FontControl", "FontControl\FontControl.csproj", "{6ED65648-BF73-4F17-96F1-3E0ED80EC529}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81AC30E8-25A0-4232-A036-0AA5E4738CDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81AC30E8-25A0-4232-A036-0AA5E4738CDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81AC30E8-25A0-4232-A036-0AA5E4738CDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81AC30E8-25A0-4232-A036-0AA5E4738CDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2469B052-14C1-4B30-8482-F1A30A20105E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2469B052-14C1-4B30-8482-F1A30A20105E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2469B052-14C1-4B30-8482-F1A30A20105E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2469B052-14C1-4B30-8482-F1A30A20105E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6ED65648-BF73-4F17-96F1-3E0ED80EC529}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ED65648-BF73-4F17-96F1-3E0ED80EC529}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ED65648-BF73-4F17-96F1-3E0ED80EC529}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ED65648-BF73-4F17-96F1-3E0ED80EC529}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

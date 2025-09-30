@@ -1,0 +1,7 @@
+C:\Users\kisim\Desktop\c#\Study_A\9th\project_1\project_1\bin\Debug\project_1.exe.config
+C:\Users\kisim\Desktop\c#\Study_A\9th\project_1\project_1\bin\Debug\project_1.exe
+C:\Users\kisim\Desktop\c#\Study_A\9th\project_1\project_1\bin\Debug\project_1.pdb
+C:\Users\kisim\Desktop\c#\Study_A\9th\project_1\project_1\obj\Debug\project_1.csproj.AssemblyReference.cache
+C:\Users\kisim\Desktop\c#\Study_A\9th\project_1\project_1\obj\Debug\project_1.csproj.CoreCompileInputs.cache
+C:\Users\kisim\Desktop\c#\Study_A\9th\project_1\project_1\obj\Debug\project_1.exe
+C:\Users\kisim\Desktop\c#\Study_A\9th\project_1\project_1\obj\Debug\project_1.pdb

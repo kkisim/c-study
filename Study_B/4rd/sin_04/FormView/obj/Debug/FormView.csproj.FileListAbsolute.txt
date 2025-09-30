@@ -1,0 +1,12 @@
+C:\Users\kisim\Desktop\c#\Study_B\4rd\sin_04\FormView\obj\Debug\FormView.csproj.AssemblyReference.cache
+C:\Users\kisim\Desktop\c#\Study_B\4rd\sin_04\FormView\obj\Debug\FormView.Form2.resources
+C:\Users\kisim\Desktop\c#\Study_B\4rd\sin_04\FormView\obj\Debug\FormView.Form3.resources
+C:\Users\kisim\Desktop\c#\Study_B\4rd\sin_04\FormView\obj\Debug\FormView.Properties.Resources.resources
+C:\Users\kisim\Desktop\c#\Study_B\4rd\sin_04\FormView\obj\Debug\FormView.csproj.GenerateResource.cache
+C:\Users\kisim\Desktop\c#\Study_B\4rd\sin_04\FormView\obj\Debug\FormView.csproj.CoreCompileInputs.cache
+C:\Users\kisim\Desktop\c#\Study_B\4rd\sin_04\FormView\bin\Debug\FormView.exe.config
+C:\Users\kisim\Desktop\c#\Study_B\4rd\sin_04\FormView\bin\Debug\FormView.exe
+C:\Users\kisim\Desktop\c#\Study_B\4rd\sin_04\FormView\bin\Debug\FormView.pdb
+C:\Users\kisim\Desktop\c#\Study_B\4rd\sin_04\FormView\obj\Debug\FormView.Form1.resources
+C:\Users\kisim\Desktop\c#\Study_B\4rd\sin_04\FormView\obj\Debug\FormView.exe
+C:\Users\kisim\Desktop\c#\Study_B\4rd\sin_04\FormView\obj\Debug\FormView.pdb

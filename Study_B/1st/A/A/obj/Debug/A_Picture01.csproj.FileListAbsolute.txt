@@ -1,0 +1,10 @@
+C:\Users\kisim\Desktop\c#\Study_B\1st\A\A\bin\Debug\A.exe.config
+C:\Users\kisim\Desktop\c#\Study_B\1st\A\A\bin\Debug\A.exe
+C:\Users\kisim\Desktop\c#\Study_B\1st\A\A\bin\Debug\A.pdb
+C:\Users\kisim\Desktop\c#\Study_B\1st\A\A\obj\Debug\A_Picture01.csproj.AssemblyReference.cache
+C:\Users\kisim\Desktop\c#\Study_B\1st\A\A\obj\Debug\A.Form1.resources
+C:\Users\kisim\Desktop\c#\Study_B\1st\A\A\obj\Debug\A.Properties.Resources.resources
+C:\Users\kisim\Desktop\c#\Study_B\1st\A\A\obj\Debug\A_Picture01.csproj.GenerateResource.cache
+C:\Users\kisim\Desktop\c#\Study_B\1st\A\A\obj\Debug\A_Picture01.csproj.CoreCompileInputs.cache
+C:\Users\kisim\Desktop\c#\Study_B\1st\A\A\obj\Debug\A.exe
+C:\Users\kisim\Desktop\c#\Study_B\1st\A\A\obj\Debug\A.pdb

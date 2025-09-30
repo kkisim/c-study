@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kisim\\Desktop\\c#\\Study_A\\11th\\project_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A53FDBD6-4C2D-4ECE-B54E-5AABDBDFB176}|project_2\\project_2.csproj|C:\\Users\\kisim\\Desktop\\c#\\Study_A\\11th\\project_2\\project_2\\boxc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53FDBD6-4C2D-4ECE-B54E-5AABDBDFB176}|project_2\\project_2.csproj|solutionrelative:project_2\\boxc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53FDBD6-4C2D-4ECE-B54E-5AABDBDFB176}|project_2\\project_2.csproj|C:\\Users\\kisim\\Desktop\\c#\\Study_A\\11th\\project_2\\project_2\\boxd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53FDBD6-4C2D-4ECE-B54E-5AABDBDFB176}|project_2\\project_2.csproj|solutionrelative:project_2\\boxd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53FDBD6-4C2D-4ECE-B54E-5AABDBDFB176}|project_2\\project_2.csproj|C:\\Users\\kisim\\Desktop\\c#\\Study_A\\11th\\project_2\\project_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53FDBD6-4C2D-4ECE-B54E-5AABDBDFB176}|project_2\\project_2.csproj|solutionrelative:project_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53FDBD6-4C2D-4ECE-B54E-5AABDBDFB176}|project_2\\project_2.csproj|c:\\users\\kisim\\desktop\\c#\\study_a\\11th\\project_2\\project_2\\boxa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53FDBD6-4C2D-4ECE-B54E-5AABDBDFB176}|project_2\\project_2.csproj|solutionrelative:project_2\\boxa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53FDBD6-4C2D-4ECE-B54E-5AABDBDFB176}|project_2\\project_2.csproj|C:\\Users\\kisim\\Desktop\\c#\\Study_A\\11th\\project_2\\project_2\\boxb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53FDBD6-4C2D-4ECE-B54E-5AABDBDFB176}|project_2\\project_2.csproj|solutionrelative:project_2\\boxb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BoxA.cs",
+              "DocumentMoniker": "C:\\Users\\kisim\\Desktop\\c#\\Study_A\\11th\\project_2\\project_2\\BoxA.cs",
+              "RelativeDocumentMoniker": "project_2\\BoxA.cs",
+              "ToolTip": "C:\\Users\\kisim\\Desktop\\c#\\Study_A\\11th\\project_2\\project_2\\BoxA.cs",
+              "RelativeToolTip": "project_2\\BoxA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T05:35:50.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BoxD.cs",
+              "DocumentMoniker": "C:\\Users\\kisim\\Desktop\\c#\\Study_A\\11th\\project_2\\project_2\\BoxD.cs",
+              "RelativeDocumentMoniker": "project_2\\BoxD.cs",
+              "ToolTip": "C:\\Users\\kisim\\Desktop\\c#\\Study_A\\11th\\project_2\\project_2\\BoxD.cs",
+              "RelativeToolTip": "project_2\\BoxD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T05:36:42.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BoxC.cs",
+              "DocumentMoniker": "C:\\Users\\kisim\\Desktop\\c#\\Study_A\\11th\\project_2\\project_2\\BoxC.cs",
+              "RelativeDocumentMoniker": "project_2\\BoxC.cs",
+              "ToolTip": "C:\\Users\\kisim\\Desktop\\c#\\Study_A\\11th\\project_2\\project_2\\BoxC.cs",
+              "RelativeToolTip": "project_2\\BoxC.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T05:36:33.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BoxB.cs",
+              "DocumentMoniker": "C:\\Users\\kisim\\Desktop\\c#\\Study_A\\11th\\project_2\\project_2\\BoxB.cs",
+              "RelativeDocumentMoniker": "project_2\\BoxB.cs",
+              "ToolTip": "C:\\Users\\kisim\\Desktop\\c#\\Study_A\\11th\\project_2\\project_2\\BoxB.cs",
+              "RelativeToolTip": "project_2\\BoxB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T05:36:00.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kisim\\Desktop\\c#\\Study_A\\11th\\project_2\\project_2\\Program.cs",
+              "RelativeDocumentMoniker": "project_2\\Program.cs",
+              "ToolTip": "C:\\Users\\kisim\\Desktop\\c#\\Study_A\\11th\\project_2\\project_2\\Program.cs",
+              "RelativeToolTip": "project_2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T05:35:17.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
